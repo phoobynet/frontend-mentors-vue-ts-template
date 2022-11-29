@@ -1,7 +1,7 @@
 # Frontend Mentors Vue TS Template
 
 ```
-gh repo create my-repo --template phoobynet/frontend-mentors-vue-ts-template
+gh repo create my-repo --template phoobynet/frontend-mentors-vue-ts-template --clone --public
 
 cd my-repo
 
